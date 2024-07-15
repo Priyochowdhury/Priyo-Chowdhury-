@@ -6,15 +6,15 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "JOY-BOT",
+  "BOTNAME": "PRIYO-BOT",
   "PREFIX": "/",
   "OPERATOR": [
-    "100065050393649",
-    "100056382366330"
+    "100065329624258",
+    ""
   ],
   "ADMINBOT": [
-    "100065050393649",
-    "100056382366330"
+    "100065329624258",
+    ""
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
